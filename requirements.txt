@@ -1,0 +1,13 @@
+numpy==1.26.2
+statsmodels==0.14.2
+pandas==2.2.2
+yfinance==0.2.40
+scipy==1.13.1
+pandas_datareader==0.10.0
+matplotlib==3.9.0
+pandas_ta==0.3.14b0
+setuptools==70.1.0
+scikit-learn==1.5.0
+joblib==1.4.2
+threadpoolctl==3.5.0
+pyportfolioopt==1.5.5
